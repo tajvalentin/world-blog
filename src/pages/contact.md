@@ -11,7 +11,7 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: Peter Cinsco
+        default_value: Peter Cisco
         is_required: true
       - input_type: email
         name: email

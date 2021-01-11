@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tristan Francis'
-    content: |
-      This blog will keep you tuned in and give you info on the world 
+    content: >
+      This blog will keep you tuned in and give you info on the world's Covid
+      Cases
   - section_id: about
     type: section_content
     title: About

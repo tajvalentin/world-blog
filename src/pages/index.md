@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Peter Cinsco'
+    title: 'Hi, I''m Peter Cisco'
     content: >
       This blog will keep you tuned in and give you info on the world's Covid
       Cases

@@ -19,7 +19,7 @@ sections:
         default_value: Your email
         is_required: true
       - input_type: select
-        name: Subject
+        name: Subjec
         label: Subject
         default_value: Topic?
         options:

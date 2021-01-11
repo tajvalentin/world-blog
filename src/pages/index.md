@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tristan Francis'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      This blog will keep you tuned in and give you info on the world 
   - section_id: about
     type: section_content
     title: About

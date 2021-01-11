@@ -12,7 +12,7 @@ sections:
     title: About
     content: >
       My goal is to ensure people on this site the warnings and emergency info
-      for Covid-19  
+      for Covid-19 to keep families safe at home. 
     actions:
       - label: Contact Me
         url: /contact
